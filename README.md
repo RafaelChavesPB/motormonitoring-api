@@ -18,3 +18,7 @@ Para executar essa API  use os seguintes comandos:
 `
   $ pip install -r requirements.txt 
 ` 
+
+`
+  $ python3 app.py
+` 
